@@ -1,7 +1,5 @@
 # Image Trail Effect
 A set of effects for mouse-following image trails that show a random series of images. Inspired by the effect seen on [VLNC Studio](http://www.vlnc.studio/).
-
-
 ![Image Trail Effects](https://tympanus.net/codrops/wp-content/uploads/2019/08/ImageTrailEffects_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=42696)
